@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Anil Kumar
 
-<!--
-**Anilkumar188/Anilkumar188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Business Intelligence Analyst | Market Research Specialist**  
+Hyderabad, India  
+Power BI | SQL | Python | Excel | Tableau | Data Visualization | EDA | DAX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a Data & BI professional with over 5 years of experience in transforming raw data into actionable insights for strategic decision-making. I've worked at firms like **ResX Analytics LLP** and **BizAcumen Research**, where I led multiple data-driven projects including:
+
+- **Customer Churn Analysis**
+- **E-commerce Sales Optimization**
+- **Airbnb Market Analysis**
+
+I specialize in building **interactive dashboards**, performing **statistical analysis**, and creating **end-to-end data workflows** using tools like **Power BI**, **SQL**, and **Python (Pandas, Matplotlib, Seaborn)**.
+
+---
+
+### Skills & Tools
+
+- **Languages:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **BI Tools:** Power BI, Tableau
+- **Databases:** MySQL, PostgreSQL
+- **Analytics:** Data Cleaning, EDA, Data Modeling, Forecasting, DAX
+- **Other:** Excel, Jupyter Notebook, Git, Statistics, A/B Testing
+
+---
+
+### Projects
+
+| Project | Description | Tools Used |
+|--------|-------------|------------|
+| [Sales Dashboard](#) | End-to-end Power BI dashboard for sales KPIs | Power BI, DAX |
+| [Bank Churn Analysis](#) | SQL + Power BI project to analyze customer churn | SQL, Power BI |
+| [E-commerce Data Analysis](#) | SQL + Excel based analysis of customer behavior and revenue trends | Python (Pandas, Matplotlib) |
+| [Airbnb Market Insights](#) | Python based analysis to identify pricing trends | Python (Pandas, Matplotlib) |
+
+---
+
+### Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anil-kumar-879a89158/)
+- anilkumar.t1021@gmail.com
+
