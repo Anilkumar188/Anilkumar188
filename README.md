@@ -24,7 +24,7 @@ I specialize in building **interactive dashboards**, performing **statistical an
 - **BI Tools:** Power BI, Tableau
 - **Databases:** MySQL, PostgreSQL
 - **Analytics:** Data Cleaning, EDA, Data Modeling, Forecasting, DAX
-- **Other:** Excel, Jupyter Notebook, Git, Statistics, A/B Testing
+- **Other:** Excel, Jupyter Notebook, Statistics, A/B Testing
 
 ---
 
@@ -32,6 +32,7 @@ I specialize in building **interactive dashboards**, performing **statistical an
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
+| [Sales Dashboard](https://github.com/Anilkumar188/Sales-Data-Analysis-SQL-Power-BI) | SQL + Power BI project to analyze Superstore sales | SQL, Power BI |
 | [Bank Churn Analysis](https://github.com/Anilkumar188/Bank-Churn-Analysis-SQL-PowerBI) | SQL + Power BI project to analyze customer churn | SQL, Power BI |
 | [E-commerce Data Analysis](https://github.com/Anilkumar188/Ecommerce-SQL-Project) | SQL + Excel based analysis of customer behavior and revenue trends | SQL, Excel |
 | [Airbnb Listing Insights](https://github.com/Anilkumar188/Airbnb-Listing-Analysis-Python) | Python based analysis to identify pricing trends | Python (Pandas, Matplotlib) |
