@@ -32,10 +32,9 @@ I specialize in building **interactive dashboards**, performing **statistical an
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [Sales Dashboard](#) | End-to-end Power BI dashboard for sales KPIs | Power BI, DAX |
-| [Bank Churn Analysis](#) | SQL + Power BI project to analyze customer churn | SQL, Power BI |
-| [E-commerce Data Analysis](#) | SQL + Excel based analysis of customer behavior and revenue trends | Python (Pandas, Matplotlib) |
-| [Airbnb Market Insights](#) | Python based analysis to identify pricing trends | Python (Pandas, Matplotlib) |
+| [Bank Churn Analysis](https://github.com/Anilkumar188/Bank-Churn-Analysis-SQL-PowerBI) | SQL + Power BI project to analyze customer churn | SQL, Power BI |
+| [E-commerce Data Analysis](https://github.com/Anilkumar188/Ecommerce-SQL-Project) | SQL + Excel based analysis of customer behavior and revenue trends | SQL, Excel |
+| [Airbnb Listing Insights](https://github.com/Anilkumar188/Airbnb-Listing-Analysis-Python) | Python based analysis to identify pricing trends | Python (Pandas, Matplotlib) |
 
 ---
 
