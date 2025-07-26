@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil Kumar
 
-**Data Analyst | Business Intelligence Analyst | Market Research Specialist**  
+**Data Analyst | Business Intelligence Analyst | Insights Reporting | Market Research Specialist**  
 Hyderabad, India  
 Power BI | SQL | Python | Excel | Tableau | Data Visualization | EDA | DAX  
 
@@ -8,13 +8,16 @@ Power BI | SQL | Python | Excel | Tableau | Data Visualization | EDA | DAX
 
 ### About Me
 
-I'm a Data & BI professional with over 5 years of experience in transforming raw data into actionable insights for strategic decision-making. I've worked at firms like **ResX Analytics LLP** and **BizAcumen Research**, where I led multiple data-driven projects including:
+I'm a data-driven professional transitioning from a successful background in **Market Research** to a focused career in **Data Analytics**. With 5+ years of experience analyzing market trends, consumer behavior, and business performance, I've developed a strong foundation in turning complex data into actionable insights.
 
-- **Customer Churn Analysis**
-- **E-commerce Sales Optimization**
-- **Airbnb Market Analysis**
+My passion for working with data has led me to upskill in tools like **Power BI**, **SQL**, **Python**, and **Excel**—and I've already completed real-world analytics projects including:
 
-I specialize in building **interactive dashboards**, performing **statistical analysis**, and creating **end-to-end data workflows** using tools like **Power BI**, **SQL**, and **Python (Pandas, Matplotlib, Seaborn)**.
+- Bank Customer Churn Analysis Power BI & SQL
+- Sales Dashboard Development in Power BI & SQL
+- E-commerce Data Analysis using Excel & SQL
+- Airbnb Listing Analysis using Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+I'm now actively applying my research mindset, business acumen, and analytical skills to roles in **Data Analysis**, **Business Intelligence**, and **Insights Reporting**—helping organizations make smarter, data-backed decisions.
 
 ---
 
